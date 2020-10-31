@@ -1,0 +1,1 @@
+for %%X in (*.plt) do (mach2ktile.exe %%X %1 16 3600 >> mach2ktile.log)
